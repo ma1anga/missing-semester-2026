@@ -1,0 +1,3 @@
+#!/bin/bash
+
+cp notes.txt "notes_$(date +%Y-%m-%d).txt"

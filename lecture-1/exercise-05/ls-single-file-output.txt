@@ -1,0 +1,19 @@
+ls: cannot access '/nonexistent': No such file or directory
+/tmp:
+plasma-csd-generator.woaodM
+sddm--amsgRQ
+sddm-auth-f3645cda-92a2-40be-b3c3-5214238a2429
+systemd-private-09350d545a9f422199e155615093b396-abrtd.service-q5zI09
+systemd-private-09350d545a9f422199e155615093b396-bluetooth.service-r1Ua29
+systemd-private-09350d545a9f422199e155615093b396-bolt.service-xL2Aze
+systemd-private-09350d545a9f422199e155615093b396-chronyd.service-9Xnyuq
+systemd-private-09350d545a9f422199e155615093b396-dbus-broker.service-0TUrPQ
+systemd-private-09350d545a9f422199e155615093b396-irqbalance.service-ulnXUC
+systemd-private-09350d545a9f422199e155615093b396-ModemManager.service-4T4NDn
+systemd-private-09350d545a9f422199e155615093b396-pcscd.service-8Ezkpp
+systemd-private-09350d545a9f422199e155615093b396-polkit.service-boxpRZ
+systemd-private-09350d545a9f422199e155615093b396-rtkit-daemon.service-bBLwre
+systemd-private-09350d545a9f422199e155615093b396-switcheroo-control.service-zLWxD3
+systemd-private-09350d545a9f422199e155615093b396-systemd-logind.service-Vgj5Mp
+systemd-private-09350d545a9f422199e155615093b396-upower.service-S73FE7
+tmp-4cu.xpi

@@ -1,0 +1,10 @@
+   3 /home/pavlo/Developer/missing-semester-2026-exercises/lecture-1/exercise-11/backup.sh
+   3 /home/pavlo/Developer/missing-semester-2026-exercises/lecture-1/exercise-04/echo.sh
+   3 /home/pavlo/Developer/missing-semester-2026-exercises/lecture-1/exercise-05/ls-single-file.sh
+   3 /home/pavlo/Developer/missing-semester-2026-exercises/lecture-1/exercise-05/ls-separate-files.sh
+   3 /home/pavlo/Developer/missing-semester-2026-exercises/lecture-1/exercise-06/mkdir-if-not-exists.sh
+   9 /home/pavlo/Developer/missing-semester-2026-exercises/lecture-1/exercise-08/is-file-exists.sh
+  24 /home/pavlo/Developer/missing-semester-2026-exercises/lecture-1/exercise-12/flaky.sh
+   3 /home/pavlo/Developer/missing-semester-2026-exercises/lecture-1/exercise-13/common_extentions.sh
+   3 /home/pavlo/Developer/missing-semester-2026-exercises/lecture-1/exercise-14/script_lines.sh
+  54 total

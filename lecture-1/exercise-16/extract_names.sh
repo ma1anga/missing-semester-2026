@@ -1,0 +1,3 @@
+#!/bin/bash
+
+curl -s https://microsoftedge.github.io/Demos/json-dummy-data/64KB.json | jq '.[] | select(.version > 6) | .name' > output.txt

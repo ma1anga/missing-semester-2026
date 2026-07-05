@@ -1,0 +1,14 @@
+pavlo@linux-pc ~/Developer/missing-semester-2026-exercises/lecture-2/environment-variables/exercise-01
+% marco 
+pavlo@linux-pc ~/Developer/missing-semester-2026-exercises/lecture-2/environment-variables/exercise-01
+% cd ~                                                                                                
+pavlo@linux-pc ~
+% polo
+/home/pavlo/Developer/missing-semester-2026-exercises/lecture-2/environment-variables/exercise-01
+pavlo@linux-pc ~
+% marco
+pavlo@linux-pc ~
+% cd /home/pavlo/Developer/missing-semester-2026-exercises/lecture-2/environment-variables/exercise-01
+pavlo@linux-pc ~/Developer/missing-semester-2026-exercises/lecture-2/environment-variables/exercise-01
+% polo
+/home/pavlo

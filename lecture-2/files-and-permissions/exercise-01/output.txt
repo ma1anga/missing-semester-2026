@@ -1,0 +1,5 @@
+1783178600.2242254830 /home/pavlo/Developer/missing-semester-2026-exercises/lecture-2/files-and-permissions/exercise-01/output.txt
+1783178584.6906844570 /home/pavlo/Developer/missing-semester-2026-exercises/lecture-2/files-and-permissions/exercise-01/recently-modified.sh
+1783177657.2414030710 /home/pavlo/Developer/missing-semester-2026-exercises/lecture-2/signals-and-job-control/exercise-02/output.txt
+1783177579.3627616600 /home/pavlo/Developer/missing-semester-2026-exercises/lecture-2/signals-and-job-control/exercise-02/pidwait.sh
+1783176398.6146485540 /home/pavlo/Developer/missing-semester-2026-exercises/lecture-2/signals-and-job-control/exercise-01/output.txt

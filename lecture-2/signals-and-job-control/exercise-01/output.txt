@@ -1,0 +1,13 @@
+pavlo@linux-pc ~/Developer/missing-semester-2026-exercises/lecture-2/signals-and-job-control/exercise-01
+% sleep 10000
+^Z
+zsh: suspended  sleep 10000
+pavlo@linux-pc ~/Developer/missing-semester-2026-exercises/lecture-2/signals-and-job-control/exercise-01
+% bg
+[1]  + continued  sleep 10000
+pavlo@linux-pc ~/Developer/missing-semester-2026-exercises/lecture-2/signals-and-job-control/exercise-01
+% pgrep -l sleep
+22695 sleep
+pavlo@linux-pc ~/Developer/missing-semester-2026-exercises/lecture-2/signals-and-job-control/exercise-01
+% pkill -f sleep
+[1]  + terminated  sleep 10000    

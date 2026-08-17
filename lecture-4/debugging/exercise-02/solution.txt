@@ -1,0 +1,13 @@
+(rr) watch students[1].id
+Hardware watchpoint 1: students[1].id
+(rr) reverse-continue
+Continuing.
+
+Hardware watchpoint 1: students[1].id
+
+Old value = 1007
+New value = 1002
+0x0000000000400510 in curve_scores (student_idx=0, curve=5) at corruption.c:24
+24	        students[student_idx].scores[i] += curve;
+(rr) print i
+$1 = 3

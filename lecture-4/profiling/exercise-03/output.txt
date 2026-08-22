@@ -1,0 +1,11 @@
+Benchmark 1: fd --glob "*.c" ~
+  Time (mean ± σ):       4.8 ms ±   0.7 ms    [User: 10.7 ms, System: 8.9 ms]
+  Range (min … max):     3.1 ms …   9.2 ms    564 runs
+ 
+Benchmark 2: find ~ -name "*.c"
+  Time (mean ± σ):     197.2 ms ±   3.2 ms    [User: 78.4 ms, System: 118.3 ms]
+  Range (min … max):   191.6 ms … 202.9 ms    15 runs
+ 
+Summary
+  fd --glob "*.c" ~ ran
+   41.28 ± 6.27 times faster than find ~ -name "*.c"

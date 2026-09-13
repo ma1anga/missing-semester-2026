@@ -1,0 +1,24 @@
+*   commit 2e9e7770469604379103f9e3da73fb20ca3da561
+|\  Merge: 78f9cd6 ba14ecf
+| | Author: Pavlo Bilousov <bilousov.p@icloud.com>
+| | Date:   Sun Sep 13 17:47:07 2026 +0200
+| | 
+| |     Merge branch 'sweet', resolving the conflicts
+| | 
+| * commit ba14ecfc431b929a6abf51a07ed3427e4a293669
+| | Author: Pavlo Bilousov <bilousov.p@icloud.com>
+| | Date:   Sun Sep 13 17:42:32 2026 +0200
+| | 
+| |     Sweet water edit
+| | 
+* | commit 78f9cd6d53bdc4b3d3fe946c8e685962b0a6f868
+|/  Author: Pavlo Bilousov <bilousov.p@icloud.com>
+|   Date:   Sun Sep 13 17:41:09 2026 +0200
+|   
+|       Salty water edit
+| 
+* commit 8589f0ac0b43c504691639c7e1a278035af03cf8
+  Author: Pavlo Bilousov <bilousov.p@icloud.com>
+  Date:   Sun Sep 13 17:39:17 2026 +0200
+  
+      Initial recipe

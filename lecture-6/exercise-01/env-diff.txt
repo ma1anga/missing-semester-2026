@@ -1,0 +1,22 @@
+diff --git a/before.txt b/after.txt
+index b7a79ba..45d8025 100644
+--- a/before.txt
++++ b/after.txt
+@@ -50,7 +50,7 @@ MEMORY_PRESSURE_WRITE=c29tZSAyMDAwMDAgMjAwMDAwMAA=
+ MOZ_GMP_PATH=/usr/lib64/mozilla/plugins/gmp-gmpopenh264/system-installed
+ OLDPWD=/home/pavlo/Developer
+ PAM_KWALLET5_LOGIN=/run/user/1000/kwallet5.socket
+-PATH=/home/pavlo/.local/share/pnpm:/home/pavlo/.nvm/versions/node/v25.8.2/bin:/home/pavlo/.local/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin
++PATH=/home/pavlo/Developer/python-test/venv/bin:/home/pavlo/.local/share/pnpm:/home/pavlo/.nvm/versions/node/v25.8.2/bin:/home/pavlo/.local/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin
+ PROFILEHOME=
+ PWD=/home/pavlo/Developer/python-test
+ QT_WAYLAND_RECONNECT=1
+@@ -89,4 +89,8 @@ NVM_CD_FLAGS=-q
+ NVM_BIN=/home/pavlo/.nvm/versions/node/v25.8.2/bin
+ NVM_INC=/home/pavlo/.nvm/versions/node/v25.8.2/include/node
+ PNPM_HOME=/home/pavlo/.local/share/pnpm
++VIRTUAL_ENV=/home/pavlo/Developer/python-test/venv
++VIRTUAL_ENV_PROMPT=venv
++PS1=(venv) %F{cyan}%n@%m%f %F{blue}%~%f
++%F{green}%#%f 
+ _=/usr/bin/printenv

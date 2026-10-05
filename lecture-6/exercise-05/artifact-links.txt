@@ -1,0 +1,2 @@
+TestPyPi -> https://test.pypi.org/project/greeting-pavlo
+ghcr.io -> https://github.com/users/ma1anga/packages/container/package/greeting-pavlo

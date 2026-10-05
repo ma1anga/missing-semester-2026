@@ -1,0 +1,8 @@
+greeting.py
+pyproject.toml
+greeting_pavlo.egg-info/PKG-INFO
+greeting_pavlo.egg-info/SOURCES.txt
+greeting_pavlo.egg-info/dependency_links.txt
+greeting_pavlo.egg-info/entry_points.txt
+greeting_pavlo.egg-info/requires.txt
+greeting_pavlo.egg-info/top_level.txt
